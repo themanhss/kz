@@ -18,3 +18,4 @@
 Route::get('/','IndexController@index');
 
 Route::get('products','ProductsController@index');
+
